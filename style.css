@@ -1,0 +1,48 @@
+body{
+    background-color: silver;
+}
+
+.fa-instagram{
+    color: red;
+
+}
+
+.fa-twitter{
+    color: rgb(24, 163, 218);
+
+}
+.fa-linkedin{
+    color: rgb(24, 37, 218);
+
+}
+.fa-facebook{
+    color: blue;
+}
+
+
+.fa-pinterest{
+    color: red;
+}
+
+.fa-youtube{
+    color: red;
+}
+
+.box-part{
+    
+    background-color: rgb(232, 232, 232);
+    padding: 40px 5px;
+    margin: 30px 0px;
+}
+
+span{
+    font-size: 14px;
+}
+
+a{
+    border-bottom: 1px solid blue;
+}
+
+.box{
+    padding: 60px 0px;
+}
